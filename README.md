@@ -2,7 +2,6 @@
 ***A custom skill for Alexa***
 
  This is a skill for Daily Pledge - Wellness Pillars. A skill to keep your wellness a top priority.
- 
  To open the skill say: "Alexa, open Daily Pledge."
 
  I am posting the DailyPledge skill code in hopes you can learn something from it.
