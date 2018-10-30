@@ -202,7 +202,7 @@ function getWelcome(data)
     // Check to see if there is a session attribute called is_new_user with the value of yes. This gets determined and set in NewSession handler.
     if (this.attributes['is_new_user'] == "yes") {
         // This is a new user - give them a big welcome.
-        speechOutput = "Welcome to Hydrogen Platform. A skill that keeps your wellness a top priority for the day. " + one_second_break + " Your total wellness crosses many different pillars. Like a physical pillar, social, financial even vocational. So here is how it works." + one_second_break + " I am going to give you a pledge to focus on, I want you to make that a priority over the course of the next 24 hours. Once it is complete, you will come back to get a new one. " + one_second_break + " Would you like to hear your pledge?";
+        speechOutput = "Welcome to Daily Pledge. A skill that keeps your wellness a top priority for the day. " + one_second_break + " Your total wellness crosses many different pillars. Like a physical pillar, social, financial even vocational. So here is how it works." + one_second_break + " I am going to give you a pledge to focus on, I want you to make that a priority over the course of the next 24 hours. Once it is complete, you will come back to get a new one. " + one_second_break + " Would you like to hear your pledge?";
         
         // Give the user 10 pledge points for joining.
         this.attributes['pledge_points'] = 0;
