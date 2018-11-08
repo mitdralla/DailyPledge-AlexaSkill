@@ -8,7 +8,7 @@
  * Learn from it, modify it, change it, create.
  * 
  * Written by:  Timothy Allard
- * Date:        11/2017
+ * Date:        11/2018
  * Version:     1.0
  * Website:     http://timothyallard.com/daily-pledge
  * LinkedIn:    https://www.linkedin.com/in/timallard/
